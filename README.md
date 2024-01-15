@@ -1,9 +1,33 @@
-# HOC GIT
+# Học git
 
-# test git pussh
+Đây là 1 thẻ thông thường
 
-## fix conflict
+Đây là thẻ ul, li
 
-## abc
+- Dây là thẻ li
+- Đây là thẻ li
 
-## abcfdsf
+[Đây là thẻ a](https://github.com/)
+![hiển thị hình ảnh trong readme](./img2.avif)
+
+**in đậm**
+_in nghiêng_
+
+> #Đây là quating
+> ###Đây là `Git bash`
+
+```js
+const a = 100;
+```
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body></body>
+</html>
+```

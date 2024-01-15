@@ -1,0 +1,9 @@
+# nếu muốn bỏ qua 1 file trong 1 thư mục thêm ** vào phía sau vào node_modules
+node_modules/**
+# bỏ qua file ap.js trong node_modules
+!node_modules/app.js
+
+#ignore tất cả các file có đuôi .js và bỏ qua file có đuôi .html
+dist/**.js
+# ignore tất cả các file bắt đầu là log
+log*
