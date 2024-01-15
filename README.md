@@ -2,4 +2,4 @@
 
 # Push
 
-## khong can origin vi nhanh mac dinh se la main
+## fix conflict
