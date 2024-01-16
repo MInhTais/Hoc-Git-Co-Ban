@@ -33,3 +33,5 @@ const a = 100;
 ```
 
 HandleA
+HandleB
+HandleB
